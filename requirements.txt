@@ -1,0 +1,10 @@
+streamlit
+flask
+opencv-python
+easyocr
+sympy
+pillow
+numpy
+python-dotenv
+google-generativeai
+requests
